@@ -1,0 +1,8 @@
+{
+  "name": "ficha-oftalmo-backend",
+  "version": "1.0.0",
+  "description": "Backend seguro (proxy) para transcrição e classificação da consulta - Ficha Oftalmológica HVA",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
